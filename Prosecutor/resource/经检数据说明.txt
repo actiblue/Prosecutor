@@ -1,0 +1,23 @@
+(直接返回网页)http://serviceip/zjjj/API_JJ_detailSingle.action?resourcehotel.ctype=?//?为类型（1：经检简介，2：工作职能，3:获得荣誉，5：为民服务中心，6：resourcehotel，7：阳光关护教育，8：文化教育基地）
+(返回数据)http://serviceip/zjjj/API_JJ_detailSingleData.action?resourcehotel.ctype=?//?为类型（1：经检简介，2：工作职能，3:获得荣誉，5：为民服务中心，6：resourcehotel，7：阳光关护教育，8：文化教育基地）
+
+
+(所有详细页面-直接返回网页)http://serviceip/zjjj/API_JJ_detail.action?resourcehotel.cid=?//?为文章id
+(所有详细页面-直接返回json数据)http://serviceip/zjjj/API_JJ_detail.action?resourcehotel.cid=?//?为文章id
+
+
+(返回list列表-直接返回json数据)http://serviceip/zjjj/API_JJGetlistByType.action?resourcehotel.ctype=a&entityPage.currentPage=b//(a为类型 4：动态经检，9：经检风貌。10:典型案例，b为页码，当前是一页10条数据，后面可以去除这个字段，以实际情况为准)
+
+(获得荣誉-返回的是json数组，数组区别在于pic字段不同,别的都相同)http://serviceip/zjjj/API_JJGetRY.action
+http://serviceip/zjjj/images/pic/
+
+
+数据说明：
+title==标题
+cdate==日期
+content==内容
+pic==图片地址（获得荣誉返回的是所有图片列表）
+
+
+
+serviceip=210.209.90.58:8080
