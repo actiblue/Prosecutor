@@ -2,8 +2,8 @@
 //  UITableView+config.m
 //  WenGe
 //
-//  Created by 张琼芳 on 14-5-15.
-//  Copyright (c) 2014年 江苏网商软件. All rights reserved.
+//  Created by Jason on 14-5-15.
+//  Copyright (c) 2014年 江苏联盟信息工程有限公司. All rights reserved.
 //
 
 #import "UITableView+config.h"

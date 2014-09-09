@@ -2,8 +2,8 @@
 //  main.m
 //  Prosecutor
 //
-//  Created by xiaoliangwang on 14-6-9.
-//  Copyright (c) 2014年 ___FULLUSERNAME___. All rights reserved.
+//  Created by Jason on 14-6-9.
+//  Copyright (c) 2014年 江苏联盟信息工程有限公司. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -2,8 +2,8 @@
 //  honourModel.m
 //  Prosecutor
 //
-//  Created by joanfen on 14-7-2.
-//  Copyright (c) 2014年 joanfen. All rights reserved.
+//  Created by Jason on 14-7-2.
+//  Copyright (c) 2014年 江苏联盟信息工程有限公司. All rights reserved.
 //
 
 #import "honourModel.h"
